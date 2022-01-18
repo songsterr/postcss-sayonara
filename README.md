@@ -2,6 +2,13 @@
 
 [PostCSS] plugin to limit used declarations to a given set.
 
+![version](https://img.shields.io/npm/v/postcss-sayonara?style=flat-square)
+![node-current](https://img.shields.io/node/v/postcss-sayonara?style=flat-square)
+![npm](https://img.shields.io/npm/dt/postcss-sayonara?style=flat-square)
+![licence](https://img.shields.io/npm/l/postcss-sayonara?style=flat-square)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/postcss-sayonara?style=flat-square)
+
+
 [PostCSS]: https://github.com/postcss/postcss
 
 ```css
