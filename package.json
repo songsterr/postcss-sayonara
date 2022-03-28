@@ -1,6 +1,6 @@
 {
   "name": "postcss-sayonara",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "PostCSS plugin to limit used declarations to a given set",
   "keywords": [
     "postcss",
@@ -28,6 +28,6 @@
   },
   "scripts": {
     "lint": "standard --fix",
-    "test": "jest"
+    "test": "jest && npm run lint"
   }
 }
